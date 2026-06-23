@@ -97,9 +97,11 @@ python main.py
 
 ## Environment Variables
 
-| Variable                | Description                         |
-| ----------------------- | ----------------------------------- |
-| `ALPHA_VANTAGE_API_KEY` | Your personal Alpha Vantage API key |
+| Variable | Description |
+| -------- | ----------- |
+| `ALPHA_VANTAGE_API_KEY` | Your personal Alpha Vantage API key for stock and ETF data |
+| `COINGECKO_API_KEY` | Your CoinGecko API key for cryptocurrency price and history data |
+| `FINNHUB_API_KEY` | Your Finnhub API key for market news |
 
 ## Notes
 
