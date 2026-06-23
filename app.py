@@ -68,6 +68,8 @@ ALPHA_KEY = os.getenv("ALPHA_VANTAGE_API_KEY")
 COINGECKO_KEY = os.getenv("COINGECKO_API_KEY")
 FINNHUB_KEY = os.getenv("FINNHUB_API_KEY")
 
+# Debug check — remove later
+st.sidebar.write("Alpha key loaded:", bool(ALPHA_KEY))
 
 # ==============================
 # Helper functions
