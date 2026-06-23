@@ -111,12 +111,6 @@ python main.py
 
 ## Future Improvements
 
-* Add an interactive dashboard interface
-* Add historical stock data charts
-* Add support for multiple stock symbols
-* Add error handling for failed API requests
-* Add loading states and better user feedback
-* Deploy the dashboard online
 
 ## Author
 
